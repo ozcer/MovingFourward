@@ -4,3 +4,8 @@ Elimate any foes that may come fourth. Collect loots to make a fourtune.
 Try to reach level 4-4
 
 Play the WebGl build on https://ozcer.itch.io/moving-fourward
+
+![](img/entrance_skele.png)
+![](img/knight_duel.jpg)
+![](img/punch_knight.jpg)
+
